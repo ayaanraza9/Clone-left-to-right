@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  width: 100vw;
+  height: 50vh;
+}
+.Left {
+  width: 30vw;
+  padding: 20px;
+  /* display: none; */
+}
+
+.Right {
+  width: 30vw;
+  padding: 20px;
+}
+.Clone_button {
+  width: 10rem;
+  height: 5rem;
+  font-size: 3rem;
+}
